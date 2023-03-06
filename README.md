@@ -1,7 +1,7 @@
 # politician-sentiment
 Sentiment analysis of tweets from US politicians with FastAI (natural language processing).
 
-•	Followed the ULMFiT methodology: Transfer learning with an AWD LSTM language model from Wikinet-103 dataset to the Sentiment-140 dataset. 
+•	Followed the ULMFiT methodology: Transfer learning with an AWD LSTM language model from Wikinet-103 dataset to the Sentiment-140 dataset. A language model predicts the next word/letter/symbol given a sequence.
 
 •	Trained the Sentiment-140 language model as a classifier, to predict sentiment of tweets from almost 2000 United States politicians.
 
